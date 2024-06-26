@@ -24,7 +24,7 @@
 
 
 ## Из 14 проведенных тестов 3 завершились ошибкой
-    Баг репорты об этом заведены в разделе [Issues](https://github.com/rlvictor/QA_Diplom/issues)
+Баг репорты об этом заведены в разделе [Issues](https://github.com/rlvictor/QA_Diplom/issues)
 
     
 
