@@ -13,4 +13,5 @@
     device-explorer\Pixel 3a API 29\_\sdcard\googletest\test_outputfiles\build\allure-results
 
     Вызвать терминал и, находясь на один уровень выше каталога allure-results, ввести команду allure serve.
- 
+
+ ![Allure-result](https://github.com/user-attachments/assets/87ad1823-0a4c-45b4-8624-2e74f0f55e0d)
